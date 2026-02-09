@@ -2,6 +2,9 @@
 
 This project brings back the classic Super Mario game on the Intel 8088 processor using assembly language. It's a simple demonstration of Mario's adventure on a single screen, featuring obstacles, enemies, and an end goal.
 
+## Screenshot:
+<img width="957" height="603" alt="image" src="https://github.com/user-attachments/assets/b2724893-ad15-4a29-9245-c6e9c726baae" />
+
 ## Highlights:
 
 - **Assembly Language:** The entire game is coded in assembly language for the Intel 8088 processor, showcasing low-level programming skills.
